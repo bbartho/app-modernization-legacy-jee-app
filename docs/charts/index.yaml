@@ -3,7 +3,7 @@ entries:
   liberty-starter-user18:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-01-16T20:03:00.061959653Z
+    created: 2019-01-16T20:59:51.696038525Z
     description: A Helm chart for Kubernetes for a simple WAS Liberty app that uses
       a Derby database
     digest: 36dcf836c099c21f06de25026ca64aab1d2d97789057dcb57e06ee811f66d212
@@ -12,6 +12,6 @@ entries:
       name: David Carew
     name: liberty-starter-user18
     urls:
-    - https:///%5Bghuname%5D.github.io/app-modernization-legacy-jee-app/charts/liberty-starter-user18-1.0.0.tgz
+    - https://bbartho.github.io/app-modernization-legacy-jee-app/charts/liberty-starter-user18-1.0.0.tgz
     version: 1.0.0
-generated: 2019-01-16T20:03:00.061143296Z
+generated: 2019-01-16T20:59:51.695185358Z
